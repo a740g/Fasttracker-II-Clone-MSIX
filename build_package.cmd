@@ -3,7 +3,7 @@
 rem Enable cmd extensions and exit if not present
 setlocal enableextensions
 if errorlevel 1 (
-    echo Error: Command Prompt extsnsions not available!
+    echo Error: Command Prompt extensions not available!
     goto end
 )
 
