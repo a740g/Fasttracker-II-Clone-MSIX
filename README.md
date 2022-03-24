@@ -1,4 +1,4 @@
-# Fasttracker II Clone MSIX
+# Fasttracker II Clone MSIX Package
 
 This is the [MSIX package](https://www.microsoft.com/store/productId/9PK13604VB17) source for [Fasttracker II Clone](https://github.com/a740g/ft2-clone).
 
